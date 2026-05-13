@@ -1,3 +1,10 @@
+## 📦 Get the Full Source Code
+
+The complete source code with all files is available on Gumroad:
+👉 **[Download on Gumroad - $49](https://khasail.gumroad.com/l/smile)**
+
+This GitHub repo shows what's included. The Gumroad purchase gets you the complete working template.
+
 # 😐 Smile Detection Template
 
 **A production-ready Flutter starter kit for building smile detection games and apps.**
